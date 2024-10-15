@@ -30,7 +30,7 @@ A one line summary of what each file and directory is for:
 ├── src/ // Everything that will be built for the website
 │   ├── components/ // All astro and SolidJs components
 │   ├── content/ // Contains all static markdown to be compiled
-│   │   |  blog/ // Contains all blog post markdown
+│   │   |  mydocs/ // Contains all mydocs post markdown
 │   │   |  projects/ // Contains all projects markdown
 │   │   |  work/ // Contains all work page markdown
 │   │   |  legal/ // Contains all legal docs markdown

@@ -1,6 +1,6 @@
 ![Astro Sphere Lighthouse Score](_astrosphere.jpg)
 
-Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and blog theme based on my personal website.
+Astro Sphere is a static, minimalist, lightweight, lightning fast portfolio and mydocs theme based on my personal website.
 
 It is primarily Astro, Tailwind and Typescript, with a very small amount of SolidJS for stateful components.
 
@@ -36,7 +36,7 @@ Rendered in ~40ms on localhost
 
 ## 📄 Configuration
 
-The blog posts on the demo serve as the documentation and configuration.
+The mydocs posts on the demo serve as the documentation and configuration.
 
 ## 💻 Commands
 
